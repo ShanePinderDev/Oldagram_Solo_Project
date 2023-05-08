@@ -30,7 +30,7 @@ body {
   font-weight: 400;
   font-size: 13px;
   line-height: 16px;
-  color: lightgray;
+  color: #000
   display: flex;
   flex-direction: column;
   align-items: center;
